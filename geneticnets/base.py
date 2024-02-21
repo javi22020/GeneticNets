@@ -1,3 +1,6 @@
+# Author: 
+# GitHub -> @javi22020
+# Creation Date: 2024-02-21
 import numpy as np
 from typing import Literal, Generator, Iterator, Callable
 import random as rn
